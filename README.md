@@ -12,4 +12,4 @@ Apaixonado por programação, migrei da área de _Farmacologia_ para ingressar n
 - Node
 
 ## Contato 📧
-Entre em contato comigo através do e-mail [christianmiranda610@gmail.com](mailto:pedronieto.2005@gmail.com?subject=Participação%20de%20projetos)
+Entre em contato comigo através do e-mail [christianmiranda610@gmail.com](mailto:christianmiranda610@gmail.com?subject=Participação%20de%20projetos)
